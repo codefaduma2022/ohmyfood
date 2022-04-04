@@ -1,0 +1,19 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "\" project three \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefaduma2022/ohmyfood.git"
+  },
+  "author": "Faduma Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefaduma2022/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/codefaduma2022/ohmyfood#readme"
+}
